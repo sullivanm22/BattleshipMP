@@ -122,8 +122,8 @@ public class Server {
 				board[row][col] = null;
 				// Check for any other squares on the board that have the same ship
 				boolean sunk = true;
-				for (int i = 0; i < board.length; i++) {
-					for (int j = 0; j < board[i][j].length; j++) {
+				for (int i = 0; i < 8; i++) {
+					for (int j = 0; j < 8; j++) {
 						if (board[i][j] == target) {
 							sunk = false;
 							break;
