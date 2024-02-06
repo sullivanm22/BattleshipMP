@@ -36,5 +36,5 @@ This project brings the classic game of Battleship to life through the use of co
 
 ## Team Members
 
-* **Perry Olum**
-* **Myles Sullivan**
+* **Perry Olum** - Server,Player, Ship
+* **Myles Sullivan** - Client, Server
